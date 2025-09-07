@@ -91,7 +91,10 @@
 # and then calculates the approximate value of pi using the method explained above.
 # At the end, the program prints out the approximation of pi to the user.
 # (Notice that it is easy to test
-# if a point falls inside circle A by testing if it fulfills the inequation x^2+y^2<1.).
+# if a point falls inside circle A by testing if it fulfills the inequation x^2+y^2<1.).\
+
+# NOT UNDERSTAND THE QUESTION
+
 
 
 
